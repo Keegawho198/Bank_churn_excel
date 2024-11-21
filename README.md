@@ -7,6 +7,9 @@ Dashboard screenshot.png
 
  ![alt text](https://github.com/Keegawho198/Bank_churn_excel/blob/Dashboard%screenshot.png)
 
+![Image](Dashboard%screenshot.png)
+ 
+
 Dataset Description
 This dataset contains information about 500 bank customers and is designed to help understand factors contributing to customer churn. The dataset includes the following variables:
 
