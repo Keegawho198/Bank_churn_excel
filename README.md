@@ -1,4 +1,5 @@
 # Bank_churn_excel
+
 Using Excel to analyze bank customers and understand factors contributing to customer churn.
 
 Below if a screenshot of an interactive dashboard within Excel. We are using a sample of 500 rows from the original excel file which contains 10000.
@@ -6,7 +7,7 @@ Below if a screenshot of an interactive dashboard within Excel. We are using a s
 ![Dashboard!](Dashboard-screenshot.png)
 
 
-##Dataset Description
+## Dataset Description
 This dataset contains information about 500 bank customers and is designed to help understand factors contributing to customer churn. The dataset includes the following variables:
 
 **CustomerID**: A unique identifier for each customer.
