@@ -2,6 +2,11 @@
 Using Excel to analyse bank customers and  understand factors contributing to customer churn.
 
 
+
+Dashboard screenshot.png
+
+ ![alt text](https://github.com/Keegawho198/Bank_churn_excel/Dashboard%screenshot.png)
+
 Dataset Description
 This dataset contains information about 500 bank customers and is designed to help understand factors contributing to customer churn. The dataset includes the following variables:
 
